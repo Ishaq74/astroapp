@@ -1,0 +1,5 @@
+{
+  "name": "Concordia OS",
+  "description": "Interface visuelle de type 'bureau mobile' pour orchestrer le repo Astro Concordia.",
+  "requestFramePermissions": []
+}
